@@ -1,2 +1,2 @@
 # Climate_Downscaling
-Sample Python code and data used for the NEX 2016 Summer Workshop
+Sample Python code and data used for the NEX 2016 Summer Workshop.

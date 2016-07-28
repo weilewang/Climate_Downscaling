@@ -1,2 +1,2 @@
 # Climate_Downscaling
-Small Python codes for climate downscaling stuff
+Sample Python code and data used for the NEX 2016 Summer Workshop
